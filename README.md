@@ -6,7 +6,7 @@ Hi Everyone,
 
 this repo is for test the knowledge of Git operations using git commands.
 
-trigger jenkins pipeline.
+trigger to test jenkins pipeline.
 
 **========================**
 
